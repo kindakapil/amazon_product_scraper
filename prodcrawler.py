@@ -1,6 +1,6 @@
 import scrapy
 # from scraper_api import ScraperAPIClient
-# client = ScraperAPIClient('6537c263a8f037448d83252358e9e289')
+# client = ScraperAPIClient('your API key here')
 import openpyxl
 
 
